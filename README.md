@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 ### 🐦 Clon básico de Twitter
 
-Plantilla basica html,
+Clon visual de la interfaz de Twitter desarrollado con HTML y CSS. Incluye JavaScript mínimo utilizado únicamente para interacciones básicas como navegación y cierre de elementos de la interfaz. Proyecto enfocado en práctica de maquetado y replicación de diseño frontend.
 
 #### Ejecución
 Abrir la carpeta del proyecto y ejecutar un Live Server  
