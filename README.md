@@ -72,13 +72,6 @@ python Aliens-Attack/main.py
 
 ---
 
-## Notas
-
-- Se recomienda utilizar variables de entorno o archivo `.env`.
-- Proyectos desarrollados con fines educativos y de práctica.
-
----
-
 ## Contacto
 Este repositorio es un proyecto educativo y de demostración personal. No se aceptan Pull Requests ni contribuciones externas. Si deseas hacer sugerencias o comentarios, puedes utilizar la sección **Discussions** del repositorio.
 
