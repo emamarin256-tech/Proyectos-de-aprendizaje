@@ -55,7 +55,7 @@ puerto = "PORT"
 #### Ejecución
 
 ```bash
-python app_empleados.py
+python Base_de_datos_empleados/app_empleados.py
 ```
 
 ---
@@ -67,7 +67,7 @@ Pequeño videojuego desarrollado para practicar lógica de programación y manej
 #### Ejecución
 
 ```bash
-python main.py
+python Aliens-Attack/main.py
 ```
 
 ---
