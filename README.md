@@ -72,20 +72,6 @@ python Aliens-Attack/main.py
 
 ---
 
-## Estructura del repositorio
-
-```
-miniproyectos/
-│
-├── clon_twitter/
-├── gestion_empleados/
-├── juego_pygame/
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## Notas
 
 - Se recomienda utilizar variables de entorno o archivo `.env`.
