@@ -38,7 +38,7 @@ Abrir la carpeta del proyecto y ejecutar un Live Server
 
 ### 👨‍💼 Gestión de empleados
 
-Aplicación conectada a PostgreSQL para administrar empleados.
+Aplicación conectada a PostgreSQL para administración de empleados mediante operaciones CRUD.
 
 #### Configuración
 
