@@ -62,7 +62,7 @@ python Base_de_datos_empleados/app_empleados.py
 
 ### 🎮 Juego 2D con Pygame
 
-Pequeño videojuego desarrollado para practicar lógica de programación y manejo de eventos.
+Videojuego 2D simple desarrollado en Python con Pygame durante mis primeras prácticas de programación. Incluye manejo de eventos, movimiento de sprites, detección de colisiones y lógica básica de juego.
 
 #### Ejecución
 
