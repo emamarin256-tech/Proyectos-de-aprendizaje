@@ -28,6 +28,9 @@ pip install -r requirements.txt
 
 ### 🐦 Clon básico de Twitter
 
+![Preview](assets/Clon%20Twitter.png)
+
+
 Clon visual de la interfaz de Twitter desarrollado con HTML y CSS. Incluye JavaScript mínimo utilizado únicamente para interacciones básicas como navegación y cierre de elementos de la interfaz. Proyecto enfocado en práctica de maquetado y replicación de diseño frontend.
 
 #### Ejecución
@@ -37,6 +40,8 @@ Abrir la carpeta del proyecto y ejecutar un Live Server
 ---
 
 ### 👨‍💼 Gestión de empleados
+
+![Preview](assets/gestión.png)
 
 Aplicación conectada a PostgreSQL para administración de empleados mediante operaciones CRUD.
 
@@ -61,6 +66,8 @@ python Base_de_datos_empleados/app_empleados.py
 ---
 
 ### 🎮 Juego 2D con Pygame
+
+![Preview](assets/Juego.png)
 
 Videojuego 2D simple desarrollado en Python con Pygame durante mis primeras prácticas de programación. Incluye manejo de eventos, movimiento de sprites, detección de colisiones y lógica básica de juego.
 
