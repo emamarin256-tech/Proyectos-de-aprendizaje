@@ -74,7 +74,7 @@ def guardar_empleado(nombre_input, puesto_input, salario_input, tabla):
             (nombre, puesto, salario))
     conn.commit()
     cursor.close()
-    # limpiiamos caja de texto
+    # limpiamos caja de texto
     nombre_input.clear()
     puesto_input.clear()
     salario_input.clear()
@@ -110,7 +110,7 @@ def cargar_tabla(tabla):
         tabla.setCellWidget(i, 4, boton_eliminar)
 
 
-# esta funcion crea la ventana de la app
+# esta función crea la ventana de la app
 
 
 def crear_ventana():
@@ -190,7 +190,7 @@ def crear_ventana():
 
     layout.addLayout(entrada_layout)
     # creando grid - elemento grafico
-    # Lo que el ususario va  a ver
+    # Lo que el usuario va a ver
 
     tabla = QTableWidget()
     tabla.setColumnCount(4)
@@ -221,8 +221,8 @@ def crear_ventana():
     ventana.show()
     return ventana
 
-# esta funcion inicia PyQt5
-# ejecuta la funcion anterior(crear ventana)
+# esta función inicia PyQt5
+# ejecuta la función anterior(crear ventana)
 # frena la app cuando se cierra la ventana
 
 
