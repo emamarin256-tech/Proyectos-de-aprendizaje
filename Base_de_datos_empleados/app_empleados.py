@@ -8,7 +8,7 @@ from PyQt5.QtGui import QIcon, QFont
 
 from util.base_de_datos import base_datos, contraseña, puerto, servidor, usuario
 
-# conecto a base de datos neon
+# conecto a base de datos
 
 conn = psycopg2.connect(
     dbname=base_datos,
