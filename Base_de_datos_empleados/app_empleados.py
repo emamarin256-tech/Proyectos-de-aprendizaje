@@ -19,7 +19,7 @@ conn = psycopg2.connect(
 )
 
 
-def seleccionar_emp1eado(tabla, nombre_input, puesto_input, salario_input):
+def seleccionar_empleado(tabla, nombre_input, puesto_input, salario_input):
     fila = tabla.currentRow()
     if fila == -1:
         return
@@ -209,7 +209,7 @@ def crear_ventana():
     # configuro seleccion
 
     tabla.cellClicked.connect(
-        lambda row, col: seleccionar_emp1eado(
+        lambda row, col: seleccionar_empleado(
             tabla,
             nombre_input,
             puesto_input,
